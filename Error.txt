@@ -1,0 +1,16 @@
+Error\Defect\Failure
+Error  Ц  A human action that produces an incorrect result. 
+ќтличие от defect и failure состоит в том, что error Ц это кака€-то единична€  ошибка не 
+только разработчика, но и каждого члена команды на разных этапах разработки. 
+Ќакопление error порождает defect.
+Defect  Ц An imperfection or deficiency in a work product where it does not meet its requirements 
+or specifications. 
+ќтличие от error и failure состоит в том, что defect Ц это так же может быть ошибкой всех 
+участников разработки, которую вы€вил тестировщик. Oтклонение ожидаемого результата 
+от фактического. Defect, обычно будет обнаружен в кодировании до отправки к 
+пользователю.
+Failure Ц  An event in which a component or system does not perform a required function within 
+specified limits.
+ќтличие от error и defect состоит в том, что failure Ц это отказ, неспособность программной 
+системы или ее части выполн€ть заданные функции в рамках установленных требований. 
+ огда defect достигает конечного потребител€ это и есть failure.
